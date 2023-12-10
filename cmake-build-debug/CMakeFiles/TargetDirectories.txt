@@ -1,0 +1,3 @@
+C:/Users/hisha/CLionProjects/8PuzzleAssignment/cmake-build-debug/CMakeFiles/8PuzzleAssignment.dir
+C:/Users/hisha/CLionProjects/8PuzzleAssignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hisha/CLionProjects/8PuzzleAssignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
